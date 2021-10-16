@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: 0 0 * * *
   # Manually when needed
-  workflow_dispatch
+
 
 jobs:
   GenerateCredInstance:
